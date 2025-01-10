@@ -13,35 +13,35 @@ Hi there! 👋 I’m **Carlos Chao**, a passionate **Web Developer**, **UI Desig
 - 🎨 **UI Design**: MUI, TailwindUI, Ant Design, Shadcn/UI, Figma  
 - 🐍 **Backend**: Python, NodeJS
 - 🧪 **Testing**: Cypress, Playwright  
-- 📚 **Tools**: Vercel, Drizzle ORM .....  
+- 📚 **Tools**: Vercel, AWS, Drizzle ORM .....  
 
 ---
 
 ## 📌 **Pinned Projects**  
 
-### [CalendAI](https://github.com/your-repo-link)
+### [CalendAI](https://github.com/el-frontend/calendai)
 > **An AI-powered calendar app** to schedule and generate content seamlessly.  
 Technologies: Next.js, ReactJS, Vercel AI SDK  
 
-### [Frontend Roadmap Guide](https://github.com/your-repo-link)
-> A curated guide for aspiring frontend developers.  
-Technologies: ReactJS, TailwindCSS, Markdown  
+### [React Hooks Store](https://github.com/el-frontend/react-hooks-store-starter)
+> This template provides a minimal setup to get stater to work with React Hooks and Context API and create a scallable stores for your application..  
+Technologies: ReactJS  
 
-### [Twitch Message Manager](https://github.com/your-repo-link)
-> A web app to manage and prioritize Twitch chat messages efficiently.  
-Technologies: WebSocket, ShadCN  
+### [Frontend Toolkit](https://github.com/el-frontend/frontend-toolkit)
+> Frontend-toolkit is a command-line tool designed to simplify the creation and configuration of frontend applications.  
+Technologies: NodeJS  
 
 ---
 
 ## 📈 **GitHub Stats**  
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-frontend&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el-frontend&layout=compact&theme=radical)  
 
 ---
 
 ## 🌟 **Let's Connect!**  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🖥️ [Website](https://your-website.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/carlos-chao)  
+- 🖥️ [Website](https://youtube.com/@ElFrontend)  
 - 📺 [YouTube - ElFrontend](https://youtube.com/@ElFrontend)  
 - 🎮 [Twitch - ElFrontend](https://twitch.tv/elfrontend)  
 
