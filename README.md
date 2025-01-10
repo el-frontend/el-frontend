@@ -1,5 +1,7 @@
 # 💻 Welcome to Carlos Chao's GitHub! 🌟  
 
+![Carlos Chao's GitHub Banner](./assets/banner.png) 
+
 Hi there! 👋 I’m **Carlos Chao**, a passionate **Web Developer**, **UI Designer**, and **Senior Frontend Developer**.  
 
 🎓 **Education**: Computer Engineer from the University of Informatics Sciences, 🇨🇺.  
